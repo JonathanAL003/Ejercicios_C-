@@ -1,0 +1,10 @@
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\bin\Debug\Generador de datos aleatorios.exe.config
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\bin\Debug\Generador de datos aleatorios.exe
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\bin\Debug\Generador de datos aleatorios.pdb
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador de datos aleatorios.csprojAssemblyReference.cache
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador_de_datos_aleatorios.Form1.resources
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador_de_datos_aleatorios.Properties.Resources.resources
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador de datos aleatorios.csproj.GenerateResource.cache
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador de datos aleatorios.csproj.CoreCompileInputs.cache
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador de datos aleatorios.exe
+C:\Programacion\POO 2\Generador de datos aleatorios\Generador de datos aleatorios\obj\Debug\Generador de datos aleatorios.pdb
