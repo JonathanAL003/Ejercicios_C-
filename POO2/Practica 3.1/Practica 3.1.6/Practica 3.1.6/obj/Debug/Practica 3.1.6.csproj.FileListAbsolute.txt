@@ -1,0 +1,10 @@
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\bin\Debug\Practica 3.1.6.exe.config
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\bin\Debug\Practica 3.1.6.exe
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\bin\Debug\Practica 3.1.6.pdb
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica 3.1.6.csprojAssemblyReference.cache
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica_3._1._6.Form1.resources
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica_3._1._6.Properties.Resources.resources
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica 3.1.6.csproj.GenerateResource.cache
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica 3.1.6.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica 3.1.6.exe
+C:\Users\Jonathan AL\source\repos\Practica 3.1.6\Practica 3.1.6\obj\Debug\Practica 3.1.6.pdb
