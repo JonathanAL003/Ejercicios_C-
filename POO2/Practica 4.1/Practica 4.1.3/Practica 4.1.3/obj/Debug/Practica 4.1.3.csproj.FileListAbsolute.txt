@@ -1,0 +1,10 @@
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\bin\Debug\Practica 4.1.3.exe.config
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\bin\Debug\Practica 4.1.3.exe
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\bin\Debug\Practica 4.1.3.pdb
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica 4.1.3.csprojAssemblyReference.cache
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica_4._1._3.Form1.resources
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica_4._1._3.Properties.Resources.resources
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica 4.1.3.csproj.GenerateResource.cache
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica 4.1.3.csproj.CoreCompileInputs.cache
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica 4.1.3.exe
+C:\Programacion\POO 2\Practica 4.1\Practica 4.1.3\Practica 4.1.3\obj\Debug\Practica 4.1.3.pdb
